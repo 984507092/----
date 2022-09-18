@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cl-uni": "^1.5.0",
+    "uview-ui": "^2.0.31"
+  },
+  "devDependencies": {
+    "sass": "^1.54.4",
+    "sass-loader": "^10.3.1"
+  }
+}
